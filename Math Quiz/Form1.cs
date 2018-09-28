@@ -16,6 +16,8 @@ namespace Math_Quiz
         // to generate random numbers.
         Random randomizer = new Random();
 
+        string today = DateTime.Now.ToString("dd MMMM yyyy");
+
         // These integer variables store the numbers 
         // for the addition problem. 
         int addend1;
@@ -204,6 +206,11 @@ namespace Math_Quiz
             {
                 System.Media.SystemSounds.Beep.Play();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            date.Text = today;
         }
     }
 }
