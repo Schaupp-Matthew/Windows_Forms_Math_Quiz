@@ -101,7 +101,10 @@ namespace Math_Quiz
                 && (minuend - subtrahend == difference.Value)
                 && (multiplicand * multiplier == product.Value)
                 && (dividend / divisor == quotient.Value))
+            {
+                timeLabel.BackColor = Color.White;
                 return true;
+            }  
             else
                 return false;
         }
@@ -136,6 +139,11 @@ namespace Math_Quiz
                 // display the new time left by updating the 
                 // Time Left label.
                 timeLeft--;
+                //turn the timeLabel red when 5 seconds left
+                if (timeLeft <= 5)
+                {
+                    timeLabel.BackColor = Color.Red;
+                }
                 timeLabel.Text = timeLeft + " seconds";
             }
             else
@@ -143,6 +151,7 @@ namespace Math_Quiz
                 // If the user ran out of time, stop the timer, show 
                 // a MessageBox, and fill in the answers.
                 timer1.Stop();
+                timeLabel.BackColor = Color.White;
                 timeLabel.Text = "Time's up!";
                 MessageBox.Show("You didn't finish in time.", "Sorry");
                 sum.Value = addend1 + addend2;
@@ -162,6 +171,38 @@ namespace Math_Quiz
             {
                 int lengthOfAnswer = answerBox.Value.ToString().Length;
                 answerBox.Select(0, lengthOfAnswer);
+            }
+        }
+
+        private void sum_ValueChanged(object sender, EventArgs e)
+        {
+            if (addend1 + addend2 == sum.Value)
+            {
+                System.Media.SystemSounds.Beep.Play();
+            }
+        }
+
+        private void difference_ValueChanged(object sender, EventArgs e)
+        {
+            if (minuend - subtrahend == difference.Value)
+            {
+                System.Media.SystemSounds.Beep.Play();
+            }
+        }
+
+        private void product_ValueChanged(object sender, EventArgs e)
+        {
+            if (multiplicand * multiplier == product.Value)
+            {
+                System.Media.SystemSounds.Beep.Play();
+            }
+        }
+
+        private void quotient_ValueChanged(object sender, EventArgs e)
+        {
+            if (dividend / divisor == quotient.Value)
+            {
+                System.Media.SystemSounds.Beep.Play();
             }
         }
     }
