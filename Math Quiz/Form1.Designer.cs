@@ -85,7 +85,7 @@
             // 
             // plusLeftLabel
             // 
-            this.plusLeftLabel.BackColor = System.Drawing.Color.White;
+            this.plusLeftLabel.BackColor = System.Drawing.Color.Yellow;
             this.plusLeftLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.plusLeftLabel.ForeColor = System.Drawing.Color.Black;
             this.plusLeftLabel.Location = new System.Drawing.Point(52, 77);
@@ -97,7 +97,7 @@
             // 
             // label2
             // 
-            this.label2.BackColor = System.Drawing.Color.White;
+            this.label2.BackColor = System.Drawing.Color.Yellow;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(250, 77);
@@ -109,7 +109,7 @@
             // 
             // plusRightLabel
             // 
-            this.plusRightLabel.BackColor = System.Drawing.Color.White;
+            this.plusRightLabel.BackColor = System.Drawing.Color.Yellow;
             this.plusRightLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.plusRightLabel.ForeColor = System.Drawing.Color.Black;
             this.plusRightLabel.Location = new System.Drawing.Point(184, 77);
@@ -121,7 +121,7 @@
             // 
             // label4
             // 
-            this.label4.BackColor = System.Drawing.Color.White;
+            this.label4.BackColor = System.Drawing.Color.Yellow;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Location = new System.Drawing.Point(118, 77);
@@ -153,7 +153,7 @@
             // 
             // label3
             // 
-            this.label3.BackColor = System.Drawing.Color.White;
+            this.label3.BackColor = System.Drawing.Color.Yellow;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(118, 127);
@@ -165,7 +165,7 @@
             // 
             // minusRightLabel
             // 
-            this.minusRightLabel.BackColor = System.Drawing.Color.White;
+            this.minusRightLabel.BackColor = System.Drawing.Color.Yellow;
             this.minusRightLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.minusRightLabel.ForeColor = System.Drawing.Color.Black;
             this.minusRightLabel.Location = new System.Drawing.Point(184, 127);
@@ -177,7 +177,7 @@
             // 
             // label6
             // 
-            this.label6.BackColor = System.Drawing.Color.White;
+            this.label6.BackColor = System.Drawing.Color.Yellow;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.Black;
             this.label6.Location = new System.Drawing.Point(250, 127);
@@ -189,7 +189,7 @@
             // 
             // minusLeftLabel
             // 
-            this.minusLeftLabel.BackColor = System.Drawing.Color.White;
+            this.minusLeftLabel.BackColor = System.Drawing.Color.Yellow;
             this.minusLeftLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.minusLeftLabel.ForeColor = System.Drawing.Color.Black;
             this.minusLeftLabel.Location = new System.Drawing.Point(52, 127);
@@ -211,7 +211,7 @@
             // 
             // label8
             // 
-            this.label8.BackColor = System.Drawing.Color.White;
+            this.label8.BackColor = System.Drawing.Color.Yellow;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.Black;
             this.label8.Location = new System.Drawing.Point(118, 177);
@@ -223,7 +223,7 @@
             // 
             // timesRightLabel
             // 
-            this.timesRightLabel.BackColor = System.Drawing.Color.White;
+            this.timesRightLabel.BackColor = System.Drawing.Color.Yellow;
             this.timesRightLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.timesRightLabel.ForeColor = System.Drawing.Color.Black;
             this.timesRightLabel.Location = new System.Drawing.Point(184, 177);
@@ -235,7 +235,7 @@
             // 
             // label10
             // 
-            this.label10.BackColor = System.Drawing.Color.White;
+            this.label10.BackColor = System.Drawing.Color.Yellow;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.Black;
             this.label10.Location = new System.Drawing.Point(250, 177);
@@ -247,7 +247,7 @@
             // 
             // timesLeftLabel
             // 
-            this.timesLeftLabel.BackColor = System.Drawing.Color.White;
+            this.timesLeftLabel.BackColor = System.Drawing.Color.Yellow;
             this.timesLeftLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.timesLeftLabel.ForeColor = System.Drawing.Color.Black;
             this.timesLeftLabel.Location = new System.Drawing.Point(52, 177);
@@ -269,7 +269,7 @@
             // 
             // label12
             // 
-            this.label12.BackColor = System.Drawing.Color.White;
+            this.label12.BackColor = System.Drawing.Color.Yellow;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.Black;
             this.label12.Location = new System.Drawing.Point(118, 227);
@@ -281,7 +281,7 @@
             // 
             // dividedRightLabel
             // 
-            this.dividedRightLabel.BackColor = System.Drawing.Color.White;
+            this.dividedRightLabel.BackColor = System.Drawing.Color.Yellow;
             this.dividedRightLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dividedRightLabel.ForeColor = System.Drawing.Color.Black;
             this.dividedRightLabel.Location = new System.Drawing.Point(184, 227);
@@ -293,7 +293,7 @@
             // 
             // label14
             // 
-            this.label14.BackColor = System.Drawing.Color.White;
+            this.label14.BackColor = System.Drawing.Color.Yellow;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.Black;
             this.label14.Location = new System.Drawing.Point(250, 227);
@@ -305,7 +305,7 @@
             // 
             // dividedLeftLabel
             // 
-            this.dividedLeftLabel.BackColor = System.Drawing.Color.White;
+            this.dividedLeftLabel.BackColor = System.Drawing.Color.Yellow;
             this.dividedLeftLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dividedLeftLabel.ForeColor = System.Drawing.Color.Black;
             this.dividedLeftLabel.Location = new System.Drawing.Point(52, 227);
@@ -323,7 +323,7 @@
             this.startButton.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.ActiveCaption;
             this.startButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.startButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.startButton.Location = new System.Drawing.Point(178, 303);
+            this.startButton.Location = new System.Drawing.Point(161, 302);
             this.startButton.Name = "startButton";
             this.startButton.Size = new System.Drawing.Size(136, 34);
             this.startButton.TabIndex = 1;
@@ -358,7 +358,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Window;
+            this.BackColor = System.Drawing.Color.Yellow;
             this.ClientSize = new System.Drawing.Size(480, 357);
             this.Controls.Add(this.date);
             this.Controls.Add(this.label5);
